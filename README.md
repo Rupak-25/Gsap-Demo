@@ -14,7 +14,7 @@
 - `gsap.timeline()`: Allows chaining multiple animations in a coordinated sequence.
 
 Because of its versatility, GSAP is used for creating animations in interactive websites, banner ads, & even large-scale applications like video games or presentations.
-So, I created a demo project using gsap, below the video given is to showcase the final outcome of the project.
+So, I created a demo project using gsap, below 👇 the video given is to showcase the final outcome of the project.
 
 
 
